@@ -1,3 +1,3 @@
 # HELLO Yale
 
-## Ice Cream at Midnight suckas
+## Iced Coffee at Midnight suckas

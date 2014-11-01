@@ -7,6 +7,3 @@
 
 ## Refused Toppings
 
-* Tuna
-* Shellfish
-* Siracha

@@ -5,5 +5,5 @@
 * MORE ICECREAM!
 * Chocolate Chips
 
-## Refused Toppings
+# New Section Called The Good Stuff
 
